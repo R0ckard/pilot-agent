@@ -1,3 +1,4 @@
+// Force update – static context for Pilot Agent – 23 July 2025
 export async function gatherContext(taskContent) {
   return [
     {
